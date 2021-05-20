@@ -1,0 +1,16 @@
+{
+	"cards": [
+		{
+			"id": "card1",
+			"icon": "icon1"
+		},
+		{
+			"id": "card2",
+			"icon": "icon2"
+		},
+		{
+			"id": "card3",
+			"icon": "icon3"
+		}
+	]
+}

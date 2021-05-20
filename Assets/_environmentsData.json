@@ -1,0 +1,14 @@
+{
+	"environments": [
+		{
+			"id": "test_environment",
+			"start_level_number": 1,
+			"cards" : [
+				"card1",
+				"card2",
+				"card3"
+			],
+			"background" : "test_background"
+		},
+	]
+}

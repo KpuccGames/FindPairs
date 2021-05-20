@@ -1,0 +1,21 @@
+{
+	"game_levels_config": {
+		"hard_difficulty_min_remainder" :  6,
+		"extreme_difficulty_min_remainder": 11,
+		"level_durations": [
+			120,
+			180,
+			240
+		],
+		"quests_amount": [
+			10,
+			15,
+			20
+		],
+		"gold_amount": [
+			100,
+			200,
+			300
+		]
+	}
+}

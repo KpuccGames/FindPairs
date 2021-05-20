@@ -1,0 +1,19 @@
+{
+	"quests_config": {
+		"minimum_required_cards": [
+			2,
+			5,
+			7
+		],
+		"maximum_required_cards": [
+			5,
+			8,
+			10
+		],
+		"minimum_required_card_types": [
+			1,
+			2,
+			3
+		]
+	}
+}
